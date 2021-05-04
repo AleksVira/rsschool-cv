@@ -1,2 +1,2 @@
 # rsschool-cv
-Public Resume
+https://aleksvira.github.io/rsschool-cv/cv
